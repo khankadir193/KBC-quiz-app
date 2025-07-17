@@ -2,7 +2,14 @@
   height: 100vh;
   display: flex;
   color: white;
-  background-color: #020230;
+  /* background-color: #020230; */
+  /* background-image: url("./assets/khankadir.jpg"); */
+  background-image: url("./assets/kadir.jpg");
+  background-size: cover;
+  /* background-size: 100% 100% /center; */
+  background-position: center;
+  background-repeat: no-repeat;
+  object-fit: contain;
 }
 
 .main {
